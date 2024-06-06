@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653159652829",
+    "project_id": "whiteandblack-a6e4d",
+    "storage_bucket": "whiteandblack-a6e4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653159652829:android:2a2d474765971a5eb76a34",
+        "android_client_info": {
+          "package_name": "com.whiteandblack.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA573M8mG_NuAtnCVTTp_2TkOQpUyAsuj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">White&amp;Black</string>
+
+<!--    login-->
+    <string name="whiteandblack">White&amp;Black</string>
+    <string name="mail">Почта</string>
+    <string name="pass">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="toastNotFoundUser">Пользователь не найден или неверный пароль</string>
+    <string name="registration">Зарегистрироваться</string>
+<!--    Header-->
+    <string name="back">Назад</string>
+<!--    Main-->
+    <string name="wallet">Ваш кошелек</string>
+    <string name="mir">МИР</string>
+    <string name="cardId">****-****-****-5566</string>
+    <string name="balance">Баланс:</string>
+    <string name="rub">руб</string>
+
+    <string name="pay">Оплатить</string>
+    <string name="topUp">Пополнить баланс</string>
+    <string name="history">История операций</string>
+    <string name="logout">Выйти</string>
+
+<!--    Operation-->
+    <string name="enterSum">Введите сумму</string>
+    <string name="category">Выберите категорию</string>
+    <string name="payButton">Оплатить</string>
+    <string name="topUpButton">Пополнить</string>
+    <string name="toastPaySuccess">Оплата прошла успешно!</string>
+    <string name="toastTopUpSuccess">Пополнение прошло успешно!</string>
+    <string name="toastEnterSum">Введите сумму</string>
+<!--reg-->
+    <string name="repPass">Повторите пароль</string>
+    <string name="toastEnterPass">Введите пароль</string>
+    <string name="toastPassDoNotMutch">Пароли не совпадают</string>
+
+    <string name="toastEmptyToken">Пожалуйста, проверьте заполненность всех полей!</string>
+    <string name="toastErrorPass">Пароль должен состоять минимум из 6 символов</string>
+    <string name="toastErrorPassEqual">Пароли не совпадают</string>
+    <string name="toastLoginError">Некорректный логин или пароль</string>
+</resources>
